@@ -23,6 +23,10 @@ The objective of this project (Stage II) is to synthesize a mechanism that handl
 
 ---
 
+  
+screenshot of the simulation:
+<img width="961" height="546" alt="Screenshot 2026-06-08 at 7 42 06 PM" src="https://github.com/user-attachments/assets/b1a3ba85-9f31-46ef-a6bc-3c88cb7adf77" /> 
+
 ## 🛠️ Project Structure
 
 ```text
@@ -32,5 +36,3 @@ The objective of this project (Stage II) is to synthesize a mechanism that handl
 
 
 
-screenshot of the simulation:
-<img width="961" height="546" alt="Screenshot 2026-06-08 at 7 42 06 PM" src="https://github.com/user-attachments/assets/b1a3ba85-9f31-46ef-a6bc-3c88cb7adf77" />
